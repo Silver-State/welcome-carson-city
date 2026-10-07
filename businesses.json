@@ -8,7 +8,8 @@
   "addr": "",
   "phone": "",
   "web": "https://www.7-eleven.com/locations/nv/carson-city/3838-us-50-32303",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Adams Hub for Innovation",
@@ -19,7 +20,8 @@
   "addr": "111 West Proctor Street",
   "phone": "+17752220001",
   "web": "https://adamshub.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Advanced Auto Sales",
@@ -30,7 +32,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Alatte",
@@ -41,7 +44,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Fr 11:00-17:00"
+  "hours": "Mo-Fr 11:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Alberto's Boot & Shoe Repair",
@@ -52,7 +56,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Aloha Discount Wine & Liquors",
@@ -63,7 +68,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Americas Best Value Inn",
@@ -74,7 +80,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Anytime Fitness",
@@ -85,7 +92,8 @@
   "addr": "2629 North Carson Street",
   "phone": "+1 775-222-0022",
   "web": "https://www.anytimefitness.com/gyms/3116/carson-city-nv-89706/",
-  "hours": "24/7"
+  "hours": "24/7",
+  "town": "Carson City"
  },
  {
   "name": "Anytime Fitness",
@@ -96,7 +104,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Applebee's",
@@ -107,7 +116,8 @@
   "addr": "",
   "phone": "+1 775-882-0222",
   "web": "https://restaurants.applebees.com/en-us/nv/carson-city/3300-s-carson-street-82068",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Arby's",
@@ -118,7 +128,8 @@
   "addr": "1122 South Carson Street",
   "phone": "+1 775-883-1814",
   "web": "https://www.arbys.com/locations/us/nv/carson-city/1122-s-carson-st/store-1814/",
-  "hours": "10:00-21:00"
+  "hours": "10:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Arco Food Mart",
@@ -129,7 +140,8 @@
   "addr": "2707 Lincoln Highway",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "AT&T",
@@ -140,7 +152,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "AT&T",
@@ -151,7 +164,8 @@
   "addr": "911 Topsy Lane",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Attitudes Hair Salon",
@@ -162,7 +176,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "AutoZone",
@@ -173,7 +188,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "AutoZone",
@@ -184,7 +200,8 @@
   "addr": "3460",
   "phone": "",
   "web": "https://www.autozone.com/locations/nv/carson-city/3460-s-carson-st.html",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Axohelado",
@@ -195,7 +212,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Back On Track Inn",
@@ -206,7 +224,8 @@
   "addr": "801 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Bamboo Garden",
@@ -217,7 +236,8 @@
   "addr": "",
   "phone": "+17758856868",
   "web": "",
-  "hours": "Mo-Sa 11:30-20:00"
+  "hours": "Mo-Sa 11:30-20:00",
+  "town": "Carson City"
  },
  {
   "name": "Bank of America",
@@ -228,7 +248,8 @@
   "addr": "600 East William Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Bank of America",
@@ -239,7 +260,20 @@
   "addr": "947 Topsy Lane",
   "phone": "",
   "web": "https://locators.bankofamerica.com/nv/carsoncity/financial-centers-carson-city-15739.html",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Barrels-O-Candy",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "confectionery",
+  "lat": 39.31123,
+  "lon": -119.649506,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Baskin-Robbins",
@@ -250,7 +284,8 @@
   "addr": "3947 South Carson Street",
   "phone": "+1 775-885-8830",
   "web": "https://locations.baskinrobbins.com/nv/carson-city/3947-s.-carson-st-361222-br",
-  "hours": "11:00-22:00"
+  "hours": "11:00-22:00",
+  "town": "Carson City"
  },
  {
   "name": "Bath & Body Works",
@@ -261,7 +296,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Batteries Plus Bulbs",
@@ -272,7 +308,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Battle Born Auto Body",
@@ -283,7 +320,8 @@
   "addr": "2016 South Edmonds Drive",
   "phone": "+1-775-301-6500",
   "web": "https://battlebornautobody.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Bella Vita",
@@ -294,7 +332,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Best Buy",
@@ -305,7 +344,8 @@
   "addr": "911 Topsy Lane",
   "phone": "+1 775-267-3523",
   "web": "https://stores.bestbuy.com/nv/carson-city/911-topsy-ln-850.html",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Big 5 Sporting Goods",
@@ -316,7 +356,8 @@
   "addr": "4219 South Carson Street",
   "phone": "",
   "web": "",
-  "hours": "Mo 10:00-20:00; Tu,Su 10:00-18:00; We-Th 10:00-20:30; Fr 09:30-21:00; Sa 09:00-20:00"
+  "hours": "Mo 10:00-20:00; Tu,Su 10:00-18:00; We-Th 10:00-20:30; Fr 09:30-21:00; Sa 09:00-20:00",
+  "town": "Carson City"
  },
  {
   "name": "Big Lots",
@@ -327,7 +368,8 @@
   "addr": "4215 South Carson Street",
   "phone": "+1 775-883-1557",
   "web": "https://local.biglots.com/nv/carson-city/4215-s-carson-st",
-  "hours": "Mo-Su 09:00-21:00"
+  "hours": "Mo-Su 09:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Bike Habitat",
@@ -338,7 +380,8 @@
   "addr": "911 Topsy Lane",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Bike Shop",
@@ -349,7 +392,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Bill & Tamis Old Corner Bar",
+  "cat": "Bars & Breweries",
+  "kind": "bar",
+  "lat": 39.311007,
+  "lon": -119.650244,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Black Harbor Tatoo",
@@ -360,7 +416,8 @@
   "addr": "326 East Winnie Lane",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Blissed Out Skate Shop",
@@ -371,7 +428,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Blue Bull",
@@ -382,7 +440,8 @@
   "addr": "107 East Telegraph Street",
   "phone": "",
   "web": "",
-  "hours": "Mo-Th,Su 12:00-02:00; Fr-Sa 12:00-04:00"
+  "hours": "Mo-Th,Su 12:00-02:00; Fr-Sa 12:00-04:00",
+  "town": "Carson City"
  },
  {
   "name": "BlueZone Bikes",
@@ -393,7 +452,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "BlueZone Sports",
@@ -404,7 +464,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Bobby Page's Dry Cleaners",
@@ -415,7 +476,8 @@
   "addr": "1310 South Stewart Street",
   "phone": "+17758826262",
   "web": "",
-  "hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00"
+  "hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00",
+  "town": "Carson City"
  },
  {
   "name": "Bodines Casino",
@@ -426,7 +488,8 @@
   "addr": "5650 South Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Bodines Restaurant",
@@ -437,7 +500,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Bonanza Cafe",
+  "cat": "Eat",
+  "kind": "restaurant",
+  "lat": 39.311096,
+  "lon": -119.649185,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Boost Mobile",
@@ -448,7 +524,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Boot Barn",
@@ -459,7 +536,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Bourbon Street",
@@ -470,7 +548,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Bowls n' Go",
@@ -481,29 +560,44 @@
   "addr": "",
   "phone": "+17752335220",
   "web": "",
-  "hours": "Mo-Sa 11:00-20:00"
+  "hours": "Mo-Sa 11:00-20:00",
+  "town": "Carson City"
  },
  {
   "name": "Brewery Arts Center (Main Building)",
-  "cat": "Arts & Culture",
+  "cat": "Sights & History",
   "kind": "arts centre",
   "lat": 39.163571,
   "lon": -119.76995,
   "addr": "449 West King Street",
   "phone": "",
   "web": "https://breweryarts.org/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Brewery Arts Center (Performance Hall)",
-  "cat": "Arts & Culture",
+  "cat": "Sights & History",
   "kind": "arts centre",
   "lat": 39.163614,
   "lon": -119.771057,
   "addr": "449 West King Street",
   "phone": "",
   "web": "https://breweryarts.org/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Bucket of Blood Saloon",
+  "cat": "Bars & Breweries",
+  "kind": "bar",
+  "lat": 39.310607,
+  "lon": -119.649366,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Burlington",
@@ -514,7 +608,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Butts Out Vapor",
@@ -525,7 +620,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "C-A-L Ranch Store",
@@ -536,7 +632,8 @@
   "addr": "2035 North Carson Street",
   "phone": "",
   "web": "https://www.calranch.com/carson-city/store-info",
-  "hours": "Mo-Sa 08:00-21:00, Su 09:00-17:00"
+  "hours": "Mo-Sa 08:00-21:00, Su 09:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "C.C. Top",
@@ -547,7 +644,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Cactus Jack's Senator Club",
@@ -558,7 +656,20 @@
   "addr": "",
   "phone": "",
   "web": "www.cactusjacks.com",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Cafe Del Rio",
+  "cat": "Eat",
+  "kind": "mexican",
+  "lat": 39.305487,
+  "lon": -119.651715,
+  "addr": "394 South C Street",
+  "phone": "+1-775-847-5151",
+  "web": "https://cafedelriovc.com/",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Capital Automotive",
@@ -569,7 +680,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Capital Barbershop",
@@ -580,7 +692,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Capital City Liquidators Inc",
@@ -591,7 +704,8 @@
   "addr": "3647 North US 395",
   "phone": "+17752670020",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Capital City Liquor & Food Mart",
@@ -602,7 +716,8 @@
   "addr": "1511 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Capital City Sushi",
@@ -613,7 +728,8 @@
   "addr": "319 North Carson Street",
   "phone": "+17758832372",
   "web": "https://capitalcitysushi.com/",
-  "hours": "Mo-Th,Su 11:00-21:00; Fr-Sa 11:00-23:00"
+  "hours": "Mo-Th,Su 11:00-21:00; Fr-Sa 11:00-23:00",
+  "town": "Carson City"
  },
  {
   "name": "Capital Ford",
@@ -624,7 +740,34 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Capital Jewelers Salon",
+  "cat": "Jewelry & Pawn",
+  "kind": "jewelry",
+  "lat": 39.169904,
+  "lon": -119.767059,
+  "addr": "1000 North Carson Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Carson City",
+  "unverified": true
+ },
+ {
+  "name": "Capitol City Loans",
+  "cat": "Jewelry & Pawn",
+  "kind": "pawnbroker",
+  "lat": 39.191245,
+  "lon": -119.697564,
+  "addr": "5951 US Highway 50 East",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Carson City",
+  "unverified": true
  },
  {
   "name": "Capriotti's",
@@ -635,7 +778,8 @@
   "addr": "2190",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Car-Neva",
@@ -646,7 +790,8 @@
   "addr": "",
   "phone": "+17754002521",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carl\u2019s Jr.",
@@ -657,7 +802,8 @@
   "addr": "1250 South Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson City Chrysler Dodge Jeep Ram",
@@ -668,7 +814,8 @@
   "addr": "3059 South Carson Street",
   "phone": "+17752270581",
   "web": "https://www.carsonchryslerdodge.com/",
-  "hours": "Mo-Sa 08:00-18:00"
+  "hours": "Mo-Sa 08:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "Carson City Florist",
@@ -679,7 +826,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson City Hall",
@@ -690,7 +838,8 @@
   "addr": "201 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson City Hyundai",
@@ -701,7 +850,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson City Inn",
@@ -712,18 +862,20 @@
   "addr": "1930 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson City Library",
-  "cat": "Arts & Culture",
+  "cat": "Sights & History",
   "kind": "library",
   "lat": 39.169244,
   "lon": -119.761732,
   "addr": "900 North Roop Street",
   "phone": "+1 775-887-2244",
   "web": "https://www.carsoncitylibrary.org/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson City Motorsports",
@@ -734,7 +886,8 @@
   "addr": "951 Jacks Valley Road",
   "phone": "+1-775-267-3767",
   "web": "https://www.carsoncitymotorsports.com/",
-  "hours": "Tu-Fr 09:00-18:00; Sa 09:00-17:00"
+  "hours": "Tu-Fr 09:00-18:00; Sa 09:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Carson City Nugget",
@@ -745,7 +898,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "24/7"
+  "hours": "24/7",
+  "town": "Carson City"
  },
  {
   "name": "Carson City Toyota",
@@ -756,7 +910,8 @@
   "addr": "2590 South Carson Street",
   "phone": "+17752307657",
   "web": "https://www.carsoncitytoyota.com/",
-  "hours": "Mo-Fr 08:00-20:00; Sa 09:00-20:00"
+  "hours": "Mo-Fr 08:00-20:00; Sa 09:00-20:00",
+  "town": "Carson City"
  },
  {
   "name": "Carson Donut",
@@ -767,7 +922,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Su 05:00-14:00"
+  "hours": "Mo-Su 05:00-14:00",
+  "town": "Carson City"
  },
  {
   "name": "Carson Guns & Training",
@@ -778,29 +934,32 @@
   "addr": "",
   "phone": "+1 775-350-7800",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson Jewelry & Loan",
-  "cat": "Shop",
+  "cat": "Jewelry & Pawn",
   "kind": "pawnbroker",
   "lat": 39.165492,
   "lon": -119.767213,
   "addr": "308 North Carson Street",
   "phone": "+17754002552",
   "web": "http://www.carsonjewelryandloan.com/",
-  "hours": "Mo-Su 10:00-18:00"
+  "hours": "Mo-Su 10:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "Carson Stadium Cinemas",
-  "cat": "Arts & Culture",
+  "cat": "Sights & History",
   "kind": "cinema",
   "lat": 39.183748,
   "lon": -119.766527,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson Tahoe Hotel",
@@ -811,7 +970,21 @@
   "addr": "800 North Carson Street",
   "phone": "",
   "web": "https://carsontahoehotel.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Carson Tahoe Jewelers",
+  "cat": "Jewelry & Pawn",
+  "kind": "jewelry",
+  "lat": 39.149833,
+  "lon": -119.761679,
+  "addr": "675 Fairview Drive #230",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Carson City",
+  "unverified": true
  },
  {
   "name": "Carson Tahoe Self Storage",
@@ -822,7 +995,8 @@
   "addr": "750 Old Clear Creek Road",
   "phone": "+17758889777",
   "web": "https://carsontahoestorage.com",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson Tires & Wheels",
@@ -833,7 +1007,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Carson Vape",
@@ -844,7 +1019,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "CarsonHome Furnishings",
@@ -855,7 +1031,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Sa 09:00-18:00; Su 10:00-17:00"
+  "hours": "Mo-Sa 09:00-18:00; Su 10:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Casino Fandango",
@@ -866,18 +1043,20 @@
   "addr": "3800 South Carson Street",
   "phone": "",
   "web": "",
-  "hours": "24/7"
+  "hours": "24/7",
+  "town": "Carson City"
  },
  {
   "name": "Charlie B Gallery",
-  "cat": "Shop",
+  "cat": "Nevada Gifts & Souvenirs",
   "kind": "art",
   "lat": 39.165993,
   "lon": -119.767678,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Chase",
@@ -888,7 +1067,8 @@
   "addr": "3883 South Carson Street",
   "phone": "+1 775-515-1676",
   "web": "https://locator.chase.com/nv/carson-city/3883-s-carson-st",
-  "hours": "Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su closed"
+  "hours": "Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su closed",
+  "town": "Carson City"
  },
  {
   "name": "Chick-fil-A",
@@ -899,7 +1079,8 @@
   "addr": "4751 Cochise Street",
   "phone": "+1 775-600-1027",
   "web": "https://www.chick-fil-a.com/locations/nv/carson-valley",
-  "hours": "Mo-Sa 08:00-22:00"
+  "hours": "Mo-Sa 08:00-22:00",
+  "town": "Carson City"
  },
  {
   "name": "Chili's",
@@ -910,7 +1091,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "China East",
@@ -921,7 +1103,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "China Jade Horse",
@@ -932,7 +1115,8 @@
   "addr": "",
   "phone": "+17752675188",
   "web": "",
-  "hours": "Mo,We-Su 11:00-20:30"
+  "hours": "Mo,We-Su 11:00-20:30",
+  "town": "Carson City"
  },
  {
   "name": "Chipotle",
@@ -943,7 +1127,32 @@
   "addr": "1457 South Carson Street",
   "phone": "+1 775-885-7502",
   "web": "https://locations.chipotle.com/nv/carson-city/1457-s-carson-st",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Chollar Mansion",
+  "cat": "Sights & History",
+  "kind": "museum",
+  "lat": 39.302674,
+  "lon": -119.65214,
+  "addr": "",
+  "phone": "",
+  "web": "https://www.nps.gov/nr/travel/nevada/cho.htm",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Chollar Mine",
+  "cat": "Sights & History",
+  "kind": "mine",
+  "lat": 39.301868,
+  "lon": -119.651407,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Cigs for Less",
@@ -954,7 +1163,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Cipriani's",
@@ -965,7 +1175,8 @@
   "addr": "318 North Carson Street",
   "phone": "+17755154038",
   "web": "https://775barber.com/",
-  "hours": "Tu-Fr 09:00-17:30; Sa 09:00-15:30"
+  "hours": "Tu-Fr 09:00-17:30; Sa 09:00-15:30",
+  "town": "Carson City"
  },
  {
   "name": "Classy Seconds",
@@ -976,7 +1187,20 @@
   "addr": "3590 Gordon Street",
   "phone": "+1 775-841-7081",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Cobb Mansion Bed and Breakfast",
+  "cat": "Stay",
+  "kind": "guest house",
+  "lat": 39.310868,
+  "lon": -119.651056,
+  "addr": "18 A Street",
+  "phone": "",
+  "web": "https://www.cobbmansion.com/",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Comma Coffee",
@@ -987,7 +1211,56 @@
   "addr": "South Carson Street",
   "phone": "+1 775-883-2662",
   "web": "https://www.commacoffeecafe.com/",
-  "hours": "Mo-Sa 07:00-14:00"
+  "hours": "Mo-Sa 07:00-14:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "Comstock Bandido",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "gift",
+  "lat": 39.309861,
+  "lon": -119.649638,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Comstock Creamery",
+  "cat": "Coffee",
+  "kind": "cafe",
+  "lat": 39.308526,
+  "lon": -119.650122,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Comstock Firemen's Museum",
+  "cat": "Sights & History",
+  "kind": "museum",
+  "lat": 39.309077,
+  "lon": -119.649951,
+  "addr": "",
+  "phone": "",
+  "web": "http://www.comstockfiremuseum.com/",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Comstock Gold Mill",
+  "cat": "Sights & History",
+  "kind": "museum",
+  "lat": 39.304218,
+  "lon": -119.649108,
+  "addr": "435 F Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Costco",
@@ -998,7 +1271,8 @@
   "addr": "700 Old Clear Creek Road",
   "phone": "+1 775-881-2503",
   "web": "https://www.costco.com/warehouse-locations/carson-city-nv-127.html",
-  "hours": "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
+  "hours": "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "Costco Gasoline",
@@ -1009,7 +1283,8 @@
   "addr": "700 Old Clear Creek Road",
   "phone": "",
   "web": "https://www.costco.com/warehouse-locations/carson-city-nv-127.html",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Courtyard",
@@ -1020,7 +1295,8 @@
   "addr": "3870 South Carson Street",
   "phone": "+1 775-887-9900",
   "web": "https://www.marriott.com/rnocc",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Cowboys Liquor",
@@ -1031,7 +1307,8 @@
   "addr": "East William Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Cozy Nail Spa",
@@ -1042,7 +1319,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Crazy Calamities",
+  "cat": "Eat",
+  "kind": "restaurant",
+  "lat": 39.305253,
+  "lon": -119.652551,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Crazy D's",
@@ -1053,18 +1343,20 @@
   "addr": "1280 South Carson St",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Crimson Moon",
-  "cat": "Shop",
+  "cat": "Nevada Gifts & Souvenirs",
   "kind": "gift",
   "lat": 39.156099,
   "lon": -119.766119,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Tu 11:00-17:00; We-Sa 10:00-18:00; Su 11:00-17:00"
+  "hours": "Tu 11:00-17:00; We-Sa 10:00-18:00; Su 11:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Crumbl Cookies",
@@ -1075,7 +1367,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Sa 08:00-22:00"
+  "hours": "Mo-Sa 08:00-22:00",
+  "town": "Carson City"
  },
  {
   "name": "CSM Storage",
@@ -1086,7 +1379,8 @@
   "addr": "2110 Lone Mountain Drive",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Cucina Lupo",
@@ -1097,7 +1391,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Custom Truck",
@@ -1108,7 +1403,8 @@
   "addr": "3212 South Carson Street",
   "phone": "+17754613464",
   "web": "https://customtruckaccessories.com/",
-  "hours": "Tu-Fr 09:00-17:30; Sa 09:00-15:00"
+  "hours": "Tu-Fr 09:00-17:30; Sa 09:00-15:00",
+  "town": "Carson City"
  },
  {
   "name": "Custom Truck Accessories",
@@ -1119,7 +1415,8 @@
   "addr": "3244 South Carson Street",
   "phone": "+17758858111",
   "web": "https://customtruckaccessories.com/",
-  "hours": "Mo-Fr 09:00-17:30; Sa 09:00-15:00"
+  "hours": "Mo-Fr 09:00-17:30; Sa 09:00-15:00",
+  "town": "Carson City"
  },
  {
   "name": "CVS Pharmacy",
@@ -1130,7 +1427,8 @@
   "addr": "",
   "phone": "",
   "web": "https://www.cvs.com/store-locator/carson-city-nv-pharmacies/3240-us-highway-50-e-carson-city-nv-89701/storeid=9981",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "CVS Pharmacy",
@@ -1141,7 +1439,8 @@
   "addr": "",
   "phone": "",
   "web": "https://www.cvs.com/store-locator/carson-city-nv-pharmacies/1980-n-carson-st-carson-city-nv-89701/storeid=9842",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Del Taco",
@@ -1152,7 +1451,8 @@
   "addr": "",
   "phone": "",
   "web": "https://locations.deltaco.com/us/nv/carson-city/3780-hwy-395",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Denny's",
@@ -1163,18 +1463,20 @@
   "addr": "2299 North Carson Street",
   "phone": "+17758836550",
   "web": "https://www.dennys.com/",
-  "hours": "24/7"
+  "hours": "24/7",
+  "town": "Carson City"
  },
  {
   "name": "Diamond Vault",
-  "cat": "Shop",
+  "cat": "Jewelry & Pawn",
   "kind": "jewelry",
   "lat": 39.123615,
   "lon": -119.772509,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Dino Mart",
@@ -1185,7 +1487,8 @@
   "addr": "1321 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Discount Tire",
@@ -1196,7 +1499,8 @@
   "addr": "3449 South Carson Street",
   "phone": "",
   "web": "",
-  "hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+  "hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "DJs RV Center Parts & Service",
@@ -1207,7 +1511,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Dollar Loan Center",
@@ -1218,7 +1523,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Dollar Loan Center",
@@ -1229,7 +1535,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Dollar Tree",
@@ -1240,7 +1547,8 @@
   "addr": "2709 North Carson Street",
   "phone": "+1 775 882 7733",
   "web": "https://www.dollartree.com/locations/nv/carson-city/1225/",
-  "hours": "Mo-Su 08:00-21:00"
+  "hours": "Mo-Su 08:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Dollar Tree",
@@ -1251,7 +1559,8 @@
   "addr": "911 Topsy Lane",
   "phone": "+1 775-267-4362",
   "web": "https://www.dollartree.com/locations/nv/carson-city/4264/",
-  "hours": "Mo-Su 08:00-21:00"
+  "hours": "Mo-Su 08:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Dollar Tree",
@@ -1262,7 +1571,8 @@
   "addr": "1344 South Stewart Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Dollar Tree Store at 99 Cents Only Store 3",
@@ -1273,7 +1583,8 @@
   "addr": "2100 East William Street",
   "phone": "+1-775 524 2030",
   "web": "https://www.dollartree.com/locations/nv/carson-city/10432/",
-  "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00"
+  "hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+  "town": "Carson City"
  },
  {
   "name": "Domino's",
@@ -1284,7 +1595,8 @@
   "addr": "3231 Highway 50 East",
   "phone": "+1 775-883-7500",
   "web": "https://pizza.dominos.com/nevada/carson-city/3231-hwy-50-e",
-  "hours": "Mo-Th 11:00-24:00; Fr-Sa 11:00-01:00; Su 11:00-24:00"
+  "hours": "Mo-Th 11:00-24:00; Fr-Sa 11:00-01:00; Su 11:00-24:00",
+  "town": "Carson City"
  },
  {
   "name": "Donuts to Go",
@@ -1295,7 +1607,8 @@
   "addr": "1411 North Carson Street",
   "phone": "",
   "web": "https://www.nvdonutstogo.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Dotty's",
@@ -1306,7 +1619,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Dotty's",
@@ -1317,7 +1631,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Dowling's Blacksmith Shop",
+  "cat": "Sights & History",
+  "kind": "memorial",
+  "lat": 39.30972,
+  "lon": -119.650704,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "DQ Grill & Chill",
@@ -1328,7 +1655,8 @@
   "addr": "3198 Highway 50 East",
   "phone": "+1 775-883-1002",
   "web": "https://www.dairyqueen.com/locations/nv/carson-city/3198-us-hwy-50-e/8266",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Drive Line Service",
@@ -1339,7 +1667,8 @@
   "addr": "",
   "phone": "+17758871212",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Duke's Steak House",
@@ -1350,7 +1679,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Dutch Bros. Coffee",
@@ -1361,7 +1691,8 @@
   "addr": "1675 East William Street",
   "phone": "",
   "web": "https://locations.dutchbros.com/dutch-bros-coffee-4ba8e78e9c6a",
-  "hours": "We-Su 05:00-23:00"
+  "hours": "We-Su 05:00-23:00",
+  "town": "Carson City"
  },
  {
   "name": "Dutch Bros. Coffee",
@@ -1372,7 +1703,8 @@
   "addr": "1231 South Carson Street",
   "phone": "",
   "web": "https://locations.dutchbros.com/dutch-bros-coffee-f7f1d632f3d3",
-  "hours": "05:00-23:00"
+  "hours": "05:00-23:00",
+  "town": "Carson City"
  },
  {
   "name": "Dutch Bros. Coffee",
@@ -1383,7 +1715,8 @@
   "addr": "211 West Appion Way",
   "phone": "",
   "web": "https://locations.dutchbros.com/dutch-bros-coffee-29f424e6d694",
-  "hours": "05:00-23:00"
+  "hours": "05:00-23:00",
+  "town": "Carson City"
  },
  {
   "name": "East 50 Barbershoop",
@@ -1394,7 +1727,8 @@
   "addr": "2188 East William Street",
   "phone": "+1-775-350-7326",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Eatery",
@@ -1405,7 +1739,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "El Charro Avita",
@@ -1416,7 +1751,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "El Dorado Savings Bank",
@@ -1427,7 +1763,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "El Mundo Latino Western Wear",
@@ -1438,7 +1775,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "El Pollo Loco",
@@ -1449,7 +1787,8 @@
   "addr": "1923 East William Street",
   "phone": "+1 775-885-2500",
   "web": "https://restaurants.elpolloloco.com/nv/carson-city/1923-hwy-50-e",
-  "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 10:00-21:00"
+  "hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 10:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Eve's Eatery",
@@ -1460,7 +1799,8 @@
   "addr": "402 North Carson Street",
   "phone": "+17754610352",
   "web": "https://www.eveseaterynv.com/",
-  "hours": "We-Su 07:00-14:00"
+  "hours": "We-Su 07:00-14:00",
+  "town": "Carson City"
  },
  {
   "name": "ExtraMile",
@@ -1471,7 +1811,8 @@
   "addr": "1102 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": "24/7"
+  "hours": "24/7",
+  "town": "Carson City"
  },
  {
   "name": "ExtraMile",
@@ -1482,7 +1823,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "EyeMart",
@@ -1493,7 +1835,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Ez Market Mini Mart",
@@ -1504,7 +1847,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Fairview Food Mart",
@@ -1515,7 +1859,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Famous Footwear",
@@ -1526,7 +1871,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Fast Glass",
@@ -1537,7 +1883,8 @@
   "addr": "",
   "phone": "+17758852800",
   "web": "",
-  "hours": "Mo-Fr 08:00-17:00"
+  "hours": "Mo-Fr 08:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "FastFrame Expert Picture Framing",
@@ -1548,7 +1895,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "FedEx Office",
@@ -1559,7 +1907,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Fr 08:00-19:00; Sa 10:00-18:00"
+  "hours": "Mo-Fr 08:00-19:00; Sa 10:00-18:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "Firehouse Outdoor BBQ",
+  "cat": "Eat",
+  "kind": "restaurant",
+  "lat": 39.308402,
+  "lon": -119.650165,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Firehouse Subs",
@@ -1570,7 +1931,20 @@
   "addr": "312 US 50",
   "phone": "+1 775-882-8400",
   "web": "https://www.firehousesubs.com/locations/nv/carson-hwy-50/",
-  "hours": "Mo-Su 10:30-21:00"
+  "hours": "Mo-Su 10:30-21:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "First Presbyterian Church",
+  "cat": "Sights & History",
+  "kind": "place of worship",
+  "lat": 39.308152,
+  "lon": -119.650731,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Fitness for $10",
@@ -1581,7 +1955,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "24/7"
+  "hours": "24/7",
+  "town": "Carson City"
  },
  {
   "name": "Flat Earth Pizza",
@@ -1592,7 +1967,8 @@
   "addr": "2010 East William Street",
   "phone": "+1 775-434-7144",
   "web": "https://flatearthpizza.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Flavors of India",
@@ -1603,7 +1979,8 @@
   "addr": "240 East Winnie Lane",
   "phone": "+17755154137",
   "web": "",
-  "hours": "We-Sa 11:30-18:30"
+  "hours": "We-Sa 11:30-18:30",
+  "town": "Carson City"
  },
  {
   "name": "Flowers Amor",
@@ -1614,7 +1991,8 @@
   "addr": "336 East Winnie Lane",
   "phone": "+1-775-515-4314",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Food Mart",
@@ -1625,7 +2003,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Food Mart",
@@ -1636,7 +2015,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "FoodMaxx",
@@ -1647,7 +2027,32 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Forever Christmas",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "shop",
+  "lat": 39.311983,
+  "lon": -119.649292,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Fourth Ward School",
+  "cat": "Sights & History",
+  "kind": "museum",
+  "lat": 39.303159,
+  "lon": -119.65227,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Francisco's",
@@ -1658,7 +2063,8 @@
   "addr": "1200 South Stewart Street",
   "phone": "+17754610297",
   "web": "https://www.franciscos.net/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Frontier Motel",
@@ -1669,18 +2075,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Galaxy Fandango",
-  "cat": "Arts & Culture",
+  "cat": "Sights & History",
   "kind": "cinema",
   "lat": 39.131316,
   "lon": -119.773521,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Su 11:00-12:00+"
+  "hours": "Mo-Su 11:00-12:00+",
+  "town": "Carson City"
  },
  {
   "name": "Ganbaru Sushi",
@@ -1691,7 +2099,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Garibaldi's Ristorante Italiano",
@@ -1702,7 +2111,8 @@
   "addr": "307 North Carson Street",
   "phone": "+17757202869",
   "web": "http://garibaldisristoranteitaliano.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Get Nailed and Beauty Supplies",
@@ -1713,7 +2123,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Giseles Salon",
@@ -1724,7 +2135,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "GMG Foreign Auto",
@@ -1735,7 +2147,8 @@
   "addr": "1440 Rand Avenue",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "GNC",
@@ -1746,7 +2159,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Gold and Silver Saloon",
+  "cat": "Bars & Breweries",
+  "kind": "bar",
+  "lat": 39.312583,
+  "lon": -119.647178,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Gold Dust West Hotel and Casino",
@@ -1757,7 +2183,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Golden Gate",
@@ -1768,7 +2195,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Golden Hanger Cleaners",
@@ -1779,7 +2207,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Fr 07:00-18:00; Sa 08:00-15:00"
+  "hours": "Mo-Fr 07:00-18:00; Sa 08:00-15:00",
+  "town": "Carson City"
  },
  {
   "name": "Goodwill",
@@ -1790,7 +2219,20 @@
   "addr": "3520 US 50",
   "phone": "+17758411006",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Grandma's Fudge",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "chocolate",
+  "lat": 39.31106,
+  "lon": -119.649722,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Great Basin Brewing Company",
@@ -1801,7 +2243,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Greenhouse Garden Center",
@@ -1812,7 +2255,8 @@
   "addr": "2450 South Curry Street",
   "phone": "",
   "web": "https://greenhousegardencenter.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Grocery Outlet",
@@ -1823,7 +2267,20 @@
   "addr": "2100 East William Street",
   "phone": "",
   "web": "https://www.groceryoutlet.com/circulars/storeid/501",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Grosh Brothers Southwest Fine Jewelry & Gifts",
+  "cat": "Jewelry & Pawn",
+  "kind": "jewelry",
+  "lat": 39.309884,
+  "lon": -119.650115,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Guthrie's",
@@ -1834,7 +2291,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Su 10:00-21:00"
+  "hours": "Mo-Su 10:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Hacienda Market & Grill",
@@ -1845,18 +2303,20 @@
   "addr": "2270 East William Street",
   "phone": "+1-775-461-3322",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Hanifin's Art & Antiques",
-  "cat": "Shop",
+  "cat": "Nevada Gifts & Souvenirs",
   "kind": "antiques",
   "lat": 39.165012,
   "lon": -119.767199,
   "addr": "210 North Carson Street",
   "phone": "+1-775-882-2880",
   "web": "https://hanifins.com/",
-  "hours": "Tu-Sa 10:00-17:30"
+  "hours": "Tu-Sa 10:00-17:30",
+  "town": "Carson City"
  },
  {
   "name": "Harbor Freight Tools",
@@ -1867,7 +2327,8 @@
   "addr": "2749 North Carson Street",
   "phone": "+1 775-882-1163",
   "web": "https://www.harborfreight.com/storelocator/2749-n-carson-st-ste-150-carson-city-89706?number=310",
-  "hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+  "hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "Hardman House",
@@ -1878,7 +2339,20 @@
   "addr": "917 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Haunted Washoe Club Museum",
+  "cat": "Sights & History",
+  "kind": "museum",
+  "lat": 39.309319,
+  "lon": -119.650222,
+  "addr": "112 C Street",
+  "phone": "+1-775-847-4467",
+  "web": "https://www.thewashoeclubmuseum.com/",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Heidi's",
@@ -1889,7 +2363,8 @@
   "addr": "1020 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": "Mo-Su 06:30-14:00"
+  "hours": "Mo-Su 06:30-14:00",
+  "town": "Carson City"
  },
  {
   "name": "Heritage Bank",
@@ -1900,7 +2375,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Highlights",
@@ -1911,7 +2387,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Hobby Lobby",
@@ -1922,7 +2399,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Hookah Lounge",
@@ -1933,7 +2411,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "We-Th 17:00-01:00; Su 17:00-01:00; Mo-Tu 20:30-23:00; Fr-Sa 17:00-02:00"
+  "hours": "We-Th 17:00-01:00; Su 17:00-01:00; Mo-Tu 20:30-23:00; Fr-Sa 17:00-02:00",
+  "town": "Carson City"
  },
  {
   "name": "Hooligan's Ink",
@@ -1944,7 +2423,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "In-N-Out Burger",
@@ -1955,7 +2435,8 @@
   "addr": "957 Topsy Lane",
   "phone": "",
   "web": "https://locations.in-n-out.com/187",
-  "hours": "Mo-Su 10:30-01:00"
+  "hours": "Mo-Su 10:30-01:00",
+  "town": "Carson City"
  },
  {
   "name": "Industrial Finishes",
@@ -1966,7 +2447,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Jack in the Box",
@@ -1977,7 +2459,8 @@
   "addr": "309 East William Street",
   "phone": "+1 775-360-2608",
   "web": "https://locations.jackinthebox.com/us/nv/carson-city/309-e-william-st",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Jacksons",
@@ -1988,7 +2471,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Jamba",
@@ -1999,7 +2483,8 @@
   "addr": "921 Topsy Lane",
   "phone": "+1 775-267-6642",
   "web": "https://locations.jamba.com/nv/carson-city/921-topsy-lane",
-  "hours": "08:00-18:00"
+  "hours": "08:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "JCPenney",
@@ -2010,7 +2495,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Jiffy Lube",
@@ -2021,7 +2507,8 @@
   "addr": "East William Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Jiffy Lube",
@@ -2032,7 +2519,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Jimmy G's Cigar Bar",
@@ -2043,7 +2531,8 @@
   "addr": "301 North Carson Street",
   "phone": "+17758844402",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Jimmy John's",
@@ -2054,7 +2543,8 @@
   "addr": "3849 South Carson Street",
   "phone": "+1 775-882-5522",
   "web": "https://locations.jimmyjohns.com/nv/carsoncity/sandwiches-2353.html",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Jimmy John's",
@@ -2065,7 +2555,8 @@
   "addr": "2329 North Carson Street",
   "phone": "+1 775-301-4007",
   "web": "https://locations.jimmyjohns.com/nv/carsoncity/sandwiches-2204.html",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Juan's Mexican Grill & Cantina",
@@ -2076,7 +2567,8 @@
   "addr": "318 North Carson Street",
   "phone": "+17754347188",
   "web": "https://juansmexigrill.com/",
-  "hours": "Tu-Th 11:00-20:00; Fr 11:00-21:00; Sa 10:00-21:00; Su 10:00-19:00"
+  "hours": "Tu-Th 11:00-20:00; Fr 11:00-21:00; Sa 10:00-21:00; Su 10:00-19:00",
+  "town": "Carson City"
  },
  {
   "name": "Juicy",
@@ -2087,7 +2579,8 @@
   "addr": "208 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00"
+  "hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Just Brew It",
@@ -2098,7 +2591,8 @@
   "addr": "North Carson Street",
   "phone": "",
   "web": "https://justbrewit.beer/1",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Keva Juice",
@@ -2109,7 +2603,8 @@
   "addr": "2320 South Carson Street",
   "phone": "",
   "web": "https://www.kevajuice.com",
-  "hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-19:00"
+  "hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-19:00",
+  "town": "Carson City"
  },
  {
   "name": "KFC",
@@ -2120,7 +2615,8 @@
   "addr": "2523 North Carson Street",
   "phone": "+17758834092",
   "web": "https://locations.kfc.com/nv/carson-city/2523-north-carson-street",
-  "hours": "Mo-Su 10:30-22:00"
+  "hours": "Mo-Su 10:30-22:00",
+  "town": "Carson City"
  },
  {
   "name": "King Buffet",
@@ -2131,7 +2627,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Kohl's",
@@ -2142,7 +2639,8 @@
   "addr": "3871 South Carson Street",
   "phone": "+1 775-883-0969",
   "web": "https://www.kohls.com/stores/nv/carsoncity-1407.shtml",
-  "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
+  "hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00",
+  "town": "Carson City"
  },
  {
   "name": "L.A. Bakery",
@@ -2153,7 +2651,8 @@
   "addr": "1280 North Curry Street",
   "phone": "",
   "web": "https://labakerycafe.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "La Salsa Grill",
@@ -2164,7 +2663,8 @@
   "addr": "",
   "phone": "+17752671400",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "La Santaneca",
@@ -2175,7 +2675,8 @@
   "addr": "312 East Winnie Lane",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "La Tapatia",
@@ -2186,7 +2687,8 @@
   "addr": "200 East Winnie Lane",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Lamplighter Bar",
@@ -2197,7 +2699,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Larry's Gourmet Coffee House",
+  "cat": "Coffee",
+  "kind": "coffee",
+  "lat": 39.308723,
+  "lon": -119.650021,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Latina's",
@@ -2208,7 +2723,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Les Schwab Tire Center",
@@ -2219,7 +2735,8 @@
   "addr": "3020 South Carson Street",
   "phone": "",
   "web": "",
-  "hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+  "hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Little Caesars",
@@ -2230,7 +2747,8 @@
   "addr": "",
   "phone": "",
   "web": "https://littlecaesars.com/en-us/store/10338/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Living the Good Life",
@@ -2241,7 +2759,8 @@
   "addr": "1480 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Los Garcias Mexican Restaurant",
@@ -2252,7 +2771,8 @@
   "addr": "",
   "phone": "+1 775-461-0111",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Lowe's",
@@ -2263,7 +2783,8 @@
   "addr": "430 Fairview Drive",
   "phone": "+1 775-881-2460",
   "web": "http://stores.lowes.com/lowes/cgi/site?site=1024",
-  "hours": "Mo-Sa 06:00-22:00; Su 07:00-20:00"
+  "hours": "Mo-Sa 06:00-22:00; Su 07:00-20:00",
+  "town": "Carson City"
  },
  {
   "name": "Lucky Strike",
@@ -2274,18 +2795,32 @@
   "addr": "444 East William Street",
   "phone": "",
   "web": "https://www.nuggetcasinos.com/locations",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Mackay Mansion & Museum",
+  "cat": "Sights & History",
+  "kind": "museum",
+  "lat": 39.306644,
+  "lon": -119.650095,
+  "addr": "291 D Street",
+  "phone": "",
+  "web": "https://www.therealmackaymansion.com/",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Magical Moments",
-  "cat": "Shop",
+  "cat": "Nevada Gifts & Souvenirs",
   "kind": "gift",
   "lat": 39.155769,
   "lon": -119.766037,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Mangia Tutto Pizzeria e Ristorante",
@@ -2296,7 +2831,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Maria's",
@@ -2307,7 +2843,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Mario's Auto Repair",
@@ -2318,7 +2855,32 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Mark Twain Museum",
+  "cat": "Sights & History",
+  "kind": "museum",
+  "lat": 39.309982,
+  "lon": -119.649478,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Mark Twain Saloon & Casino",
+  "cat": "Bars & Breweries",
+  "kind": "casino",
+  "lat": 39.310005,
+  "lon": -119.650027,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Marshalls",
@@ -2329,7 +2891,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Martin Auto Color",
@@ -2340,7 +2903,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Mattress & Furniture Direct",
@@ -2351,7 +2915,8 @@
   "addr": "",
   "phone": "+17759978211",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Mattress Firm",
@@ -2362,7 +2927,8 @@
   "addr": "971 Topsy Lane",
   "phone": "+1 775-267-0434",
   "web": "https://www.mattressfirm.com/en-us/stores/nv/carson-city/501036/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Maurices",
@@ -2373,7 +2939,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Maverik",
@@ -2384,7 +2951,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Max Casino",
@@ -2395,7 +2963,8 @@
   "addr": "",
   "phone": "",
   "web": "https://www.maxcasinocc.com/",
-  "hours": "24/7"
+  "hours": "24/7",
+  "town": "Carson City"
  },
  {
   "name": "McDonald's",
@@ -2406,7 +2975,8 @@
   "addr": "3905 South Carson Street",
   "phone": "+1 775-882-8022",
   "web": "https://www.mcdonalds.com/us/en-us/location/7890.html",
-  "hours": "05:00-22:00"
+  "hours": "05:00-22:00",
+  "town": "Carson City"
  },
  {
   "name": "McDonald's",
@@ -2417,7 +2987,8 @@
   "addr": "2001 North Carson Street",
   "phone": "+1 775-883-1097",
   "web": "https://www.mcdonalds.com/us/en-us/location/2282.html",
-  "hours": "05:00-22:00"
+  "hours": "05:00-22:00",
+  "town": "Carson City"
  },
  {
   "name": "Metro by T-Mobile",
@@ -2428,7 +2999,8 @@
   "addr": "",
   "phone": "",
   "web": "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-carson-city-nv-10223478/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Michael Hohl Honda",
@@ -2439,7 +3011,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Michael Hohl Motor Company",
@@ -2450,7 +3023,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Michael Hohl Subaru",
@@ -2461,7 +3035,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Michael's Cycle Works",
@@ -2472,7 +3047,8 @@
   "addr": "2680 South Carson Street",
   "phone": "+17758836111",
   "web": "https://www.michaelscycleworks.com/",
-  "hours": "Tu-Fr 09:00-18:00; Sa 09:00-17:00"
+  "hours": "Tu-Fr 09:00-18:00; Sa 09:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Michaels",
@@ -2483,7 +3059,20 @@
   "addr": "911 Topsy Lane",
   "phone": "+1 775-267-1938",
   "web": "https://locations.michaels.com/nv/carson-city/3758",
-  "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+  "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "Michelson Residence",
+  "cat": "Sights & History",
+  "kind": "memorial",
+  "lat": 39.311502,
+  "lon": -119.650652,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Mill House Inn",
@@ -2494,7 +3083,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Ming's",
@@ -2505,7 +3095,8 @@
   "addr": "",
   "phone": "+1 775-887-8878",
   "web": "https://mingsrestauranttogo.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Mom's & Pop's Diner",
@@ -2516,7 +3107,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Su 07:00-14:00"
+  "hours": "Mo-Su 07:00-14:00",
+  "town": "Carson City"
  },
  {
   "name": "Motel 6",
@@ -2527,7 +3119,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Mountain Mike's",
@@ -2538,7 +3131,20 @@
   "addr": "3817 South Carson Street",
   "phone": "+1 775 515 0066",
   "web": "",
-  "hours": "Mo-Su 09:00-23:00"
+  "hours": "Mo-Su 09:00-23:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "Mustang Ranch Steakhouse",
+  "cat": "Eat",
+  "kind": "restaurant",
+  "lat": 39.310832,
+  "lon": -119.64929,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "My Hearing Centers",
@@ -2549,7 +3155,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "NAPA Auto Parts",
@@ -2560,7 +3167,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Nashville Social Club",
@@ -2571,7 +3179,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "National's Cafe",
@@ -2582,7 +3191,8 @@
   "addr": "444 East William Street",
   "phone": "+17758417377",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Nevada Power Products",
@@ -2593,7 +3203,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Nevada State Bank",
@@ -2604,7 +3215,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Nevada State Capitol",
@@ -2615,7 +3227,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Nevada State Legislature",
@@ -2626,29 +3239,32 @@
   "addr": "401 South Carson Street",
   "phone": "",
   "web": "https://www.leg.state.nv.us",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Nevada State Library & Archives",
-  "cat": "Arts & Culture",
+  "cat": "Sights & History",
   "kind": "library",
   "lat": 39.164104,
   "lon": -119.764823,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Nevada State Railroad Museum",
-  "cat": "Arts & Culture",
+  "cat": "Sights & History",
   "kind": "museum",
   "lat": 39.148471,
   "lon": -119.768326,
   "addr": "2180 South Carson Street",
   "phone": "+1-775-687-6953",
   "web": "https://www.carsonrailroadmuseum.org/",
-  "hours": "Th-Mo 09:00-16:30"
+  "hours": "Th-Mo 09:00-16:30",
+  "town": "Carson City"
  },
  {
   "name": "Nissan Carson City",
@@ -2659,18 +3275,20 @@
   "addr": "2750 South Carson Street",
   "phone": "+17756001500",
   "web": "https://www.nissancarsoncity.com/",
-  "hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00"
+  "hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "Northern Nevada Coins",
-  "cat": "Shop",
+  "cat": "Jewelry & Pawn",
   "kind": "antiques",
   "lat": 39.167313,
   "lon": -119.766663,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Nozzleman Pizza",
@@ -2681,7 +3299,8 @@
   "addr": "",
   "phone": "",
   "web": "https://nozzlemanpizza.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Nugget Hotel",
@@ -2692,7 +3311,8 @@
   "addr": "651 North Stewart Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "O'Reilly Auto Parts",
@@ -2703,7 +3323,8 @@
   "addr": "",
   "phone": "",
   "web": "https://locations.oreillyauto.com/nv/carsoncity/autoparts-3498.html",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "O'Reilly Auto Parts",
@@ -2714,7 +3335,8 @@
   "addr": "3479 South Carson Street",
   "phone": "",
   "web": "https://locations.oreillyauto.com/nv/carsoncity/autoparts-3207.html",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Office Depot",
@@ -2725,7 +3347,8 @@
   "addr": "222 Fairview Drive",
   "phone": "+1 775-887-9006",
   "web": "https://www.officedepot.com/storelocator/nv/carson-city/office-depot-973",
-  "hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+  "hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "Oishi Sushi",
@@ -2736,7 +3359,8 @@
   "addr": "",
   "phone": "+17755154375",
   "web": "https://www.oishisushicarsoncity.com/",
-  "hours": "Mo-Su 11:00-21:00"
+  "hours": "Mo-Su 11:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Old Globe Saloon",
@@ -2747,18 +3371,20 @@
   "addr": "407",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Old US Mint",
-  "cat": "Arts & Culture",
+  "cat": "Sights & History",
   "kind": "museum",
   "lat": 39.167488,
   "lon": -119.767296,
   "addr": "600 North Carson Street",
   "phone": "",
   "web": "https://www.carsonnvmuseum.org/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Old World Coffee Lab",
@@ -2769,7 +3395,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Olive Garden",
@@ -2780,7 +3407,8 @@
   "addr": "4253 S Carson St",
   "phone": "+1-775-883-7471",
   "web": "https://www.olivegarden.com/home",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Ormsby House",
@@ -2791,7 +3419,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Ormsby Inn",
@@ -2802,7 +3431,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Palace Restaurant & Saloon",
+  "cat": "Eat",
+  "kind": "restaurant",
+  "lat": 39.310148,
+  "lon": -119.650094,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Palm Court Grill",
@@ -2813,7 +3455,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Panda Express",
@@ -2824,7 +3467,8 @@
   "addr": "921 Topsy Lane",
   "phone": "+1 775-267-6760",
   "web": "https://www.pandaexpress.com/locations/nv/carson-city/934",
-  "hours": "Su-Th 10:30-21:30, Fr-Sa 10:30-22:00"
+  "hours": "Su-Th 10:30-21:30, Fr-Sa 10:30-22:00",
+  "town": "Carson City"
  },
  {
   "name": "Panda Express",
@@ -2835,7 +3479,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Panda Kitchen",
@@ -2846,7 +3491,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Panera Bread",
@@ -2857,7 +3503,8 @@
   "addr": "4881 Cochise Street",
   "phone": "+1 775-600-4981",
   "web": "https://locations.panerabread.com/nv/carson-city/4881-cochise-street.html",
-  "hours": "Mo-Sa 06:00-21:00; Su 07:00-20:00"
+  "hours": "Mo-Sa 06:00-21:00; Su 07:00-20:00",
+  "town": "Carson City"
  },
  {
   "name": "Papa Murphy's",
@@ -2868,7 +3515,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Papa Murphy's",
@@ -2879,7 +3527,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Paul Schat's Bakery",
@@ -2890,7 +3539,8 @@
   "addr": "1212 South Stewart Street",
   "phone": "+17758889090",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Pawsitive Image Grooming",
@@ -2901,7 +3551,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Paycheck Advance",
@@ -2912,7 +3563,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Paycheck Advance",
@@ -2923,7 +3575,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Petco",
@@ -2934,7 +3587,8 @@
   "addr": "911 Topsy Lane",
   "phone": "+1 775-267-2826",
   "web": "https://stores.petco.com/nv/carsoncity/pet-supplies-carsoncity-nv-1121.html",
-  "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00"
+  "hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+  "town": "Carson City"
  },
  {
   "name": "PetSmart",
@@ -2945,7 +3599,8 @@
   "addr": "250 Fairview Drive",
   "phone": "+1 775-841-9200",
   "web": "https://www.petsmart.com/stores/us/nv/carson-city-store1113.html",
-  "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+  "hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+  "town": "Carson City"
  },
  {
   "name": "Phil's Discount Nutrition",
@@ -2956,7 +3611,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Pho Country",
@@ -2967,7 +3623,8 @@
   "addr": "2495 North Carson Street",
   "phone": "+17758820200",
   "web": "http://pho-country.com/",
-  "hours": "Mo-Su 10:30-21:00"
+  "hours": "Mo-Su 10:30-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Pinnacle Executive Suites",
@@ -2978,7 +3635,20 @@
   "addr": "123 West Nye Lane",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Piper Opera House",
+  "cat": "Sights & History",
+  "kind": "theatre",
+  "lat": 39.311076,
+  "lon": -119.650205,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Pizza Hut",
@@ -2989,7 +3659,8 @@
   "addr": "2441 North Carson Street",
   "phone": "+1 775-882-5878",
   "web": "https://locations.pizzahut.com/nv/carson-city/2441-n-carson-st",
-  "hours": "Mo-Th,Su 09:30-23:00; Fr-Sa 09:30-24:00"
+  "hours": "Mo-Th,Su 09:30-23:00; Fr-Sa 09:30-24:00",
+  "town": "Carson City"
  },
  {
   "name": "Pizzava",
@@ -3000,7 +3671,8 @@
   "addr": "",
   "phone": "+17756000505",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Planet Fitness",
@@ -3011,7 +3683,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Plato's Closet",
@@ -3022,7 +3695,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00"
+  "hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
+  "town": "Carson City"
  },
  {
   "name": "Play It Again Sports",
@@ -3033,7 +3707,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Playa Azul M\u00e9xican Restaurant",
@@ -3044,7 +3719,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Plaza Hotel",
@@ -3055,7 +3731,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Pluma's Bank",
@@ -3066,7 +3743,8 @@
   "addr": "1101 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Points Casino",
@@ -3077,7 +3755,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "PokeDoke",
@@ -3088,7 +3767,32 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Sa 11:00-20:00"
+  "hours": "Mo-Sa 11:00-20:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "Ponderosa Mine Tour",
+  "cat": "Sights & History",
+  "kind": "museum",
+  "lat": 39.309531,
+  "lon": -119.650335,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Ponderosa Saloon",
+  "cat": "Bars & Breweries",
+  "kind": "bar",
+  "lat": 39.309505,
+  "lon": -119.65016,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Port of Subs",
@@ -3099,7 +3803,8 @@
   "addr": "1621 East William Street",
   "phone": "+1-775-883-1552",
   "web": "https://locations.portofsubs.com/port-of-subs-6e31cc3ce92e",
-  "hours": "Mo-Sa 10:00-19:00; Su 10:00-17:00"
+  "hours": "Mo-Sa 10:00-19:00; Su 10:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Port of Subs",
@@ -3110,7 +3815,8 @@
   "addr": "",
   "phone": "+1-775-267-3993",
   "web": "https://locations.portofsubs.com/port-of-subs-cde03d6021f4",
-  "hours": "Mo-Sa 09:00-19:00; Su 09:30-17:00"
+  "hours": "Mo-Sa 09:00-19:00; Su 09:30-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Preferred Auto Body",
@@ -3121,7 +3827,8 @@
   "addr": "",
   "phone": "+17758825606",
   "web": "https://www.preferredautobody.net/",
-  "hours": "Mo-Fr 07:30-17:00"
+  "hours": "Mo-Fr 07:30-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Prime Studios",
@@ -3132,7 +3839,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Qdoba",
@@ -3143,7 +3851,8 @@
   "addr": "933 Topsy Lane",
   "phone": "+1 775-267-9366",
   "web": "https://locations.qdoba.com/us/nv/carson-city/933-topsy-lane.html",
-  "hours": "08:00-22:00"
+  "hours": "08:00-22:00",
+  "town": "Carson City"
  },
  {
   "name": "Quilt Legacy",
@@ -3154,7 +3863,8 @@
   "addr": "",
   "phone": "",
   "web": "https://quiltlegacy.net/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Raley's",
@@ -3165,7 +3875,20 @@
   "addr": "3701 South Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Red Dog Saloon & Pizza",
+  "cat": "Eat",
+  "kind": "restaurant",
+  "lat": 39.311817,
+  "lon": -119.649352,
+  "addr": "76 North C Street",
+  "phone": "+17758477474",
+  "web": "https://www.reddogvc.rocks/",
+  "hours": "Mo-Su 11:00-21:00",
+  "town": "Virginia City"
  },
  {
   "name": "Red Dragon",
@@ -3176,7 +3899,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Red Garter Western Wear",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "shop",
+  "lat": 39.309802,
+  "lon": -119.650207,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Red Wing",
@@ -3187,7 +3923,8 @@
   "addr": "East William Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Red's Old 395 Grill",
@@ -3198,7 +3935,20 @@
   "addr": "1055 South Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Red's Old Fashioned Candies & Sandwich Parlor",
+  "cat": "Eat",
+  "kind": "restaurant",
+  "lat": 39.309947,
+  "lon": -119.650081,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Redline Racing",
@@ -3209,7 +3959,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Regal Nails",
@@ -3220,7 +3971,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Regus \u2014 South Carson Street",
@@ -3231,7 +3983,8 @@
   "addr": "1033 South Carson Street",
   "phone": "",
   "web": "https://www.regus.com/en/us/nevada/carson-city",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Rent-A-Center",
@@ -3242,7 +3995,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Rice Street Tattoo",
@@ -3253,7 +4007,8 @@
   "addr": "113 Rice Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "RISE",
@@ -3264,7 +4019,8 @@
   "addr": "135 East Clearview Drive",
   "phone": "+1 775-461-3909",
   "web": "https://risecannabis.com/dispensaries/nevada/carson-city/",
-  "hours": "Mo-Su 09:00-21:00"
+  "hours": "Mo-Su 09:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "RISE (Hwy 50)",
@@ -3275,7 +4031,8 @@
   "addr": "3060 US Highway 50 East",
   "phone": "",
   "web": "https://risecannabis.com/dispensaries/nevada/carson-city/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Rivas Mexican Grill",
@@ -3286,7 +4043,8 @@
   "addr": "557",
   "phone": "",
   "web": "",
-  "hours": "Mo-Th 06:00-23:00, Fr-Su 06:00-02:00"
+  "hours": "Mo-Th 06:00-23:00, Fr-Su 06:00-02:00",
+  "town": "Carson City"
  },
  {
   "name": "Roberto's Taco Shop",
@@ -3297,7 +4055,8 @@
   "addr": "3665 South Carson Street",
   "phone": "+17753507648",
   "web": "",
-  "hours": "24/7"
+  "hours": "24/7",
+  "town": "Carson City"
  },
  {
   "name": "Rodeway Inn",
@@ -3308,7 +4067,8 @@
   "addr": "1300 North Carson Street",
   "phone": "+1 775-883-7300",
   "web": "https://www.choicehotels.com/nevada/reno/econo-lodge-hotels",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Ross",
@@ -3319,7 +4079,8 @@
   "addr": "4201 South Carson Street",
   "phone": "+1 775-884-0782",
   "web": "",
-  "hours": "Mo-Th 10:00-21:00; Fr-Sa 09:00-22:00; Su 10:00-21:00"
+  "hours": "Mo-Th 10:00-21:00; Fr-Sa 09:00-22:00; Su 10:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Round House Inn",
@@ -3330,7 +4091,8 @@
   "addr": "1400 North Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Round Table Pizza",
@@ -3341,7 +4103,33 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Rupert's Precision Gem Cutting",
+  "cat": "Jewelry & Pawn",
+  "kind": "jewelry, gem cutting",
+  "lat": 39.141846,
+  "lon": -119.770574,
+  "addr": "2800 South Curry Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Carson City",
+  "unverified": true
+ },
+ {
+  "name": "S H & N Mill - Former Site of",
+  "cat": "Sights & History",
+  "kind": "monument",
+  "lat": 39.309557,
+  "lon": -119.649625,
+  "addr": "",
+  "phone": "",
+  "web": "https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id=10247362",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Salon Chocolat",
@@ -3352,7 +4140,8 @@
   "addr": "177 West Proctor Street",
   "phone": "+1 775-884-3667",
   "web": "http://www.salonchocolat.com",
-  "hours": "Tu 09:00-17:00; We-Th 09:00-19:00; Fr-Sa 09:00-17:00"
+  "hours": "Tu 09:00-17:00; We-Th 09:00-19:00; Fr-Sa 09:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Saltwater Tavern",
@@ -3363,7 +4152,8 @@
   "addr": "306 East William Street",
   "phone": "+1-775-301-6132",
   "web": "",
-  "hours": "Mo-Sa 16:00-23:59"
+  "hours": "Mo-Sa 16:00-23:59",
+  "town": "Carson City"
  },
  {
   "name": "San Marcos Grill",
@@ -3374,7 +4164,20 @@
   "addr": "260 East Winnie Lane",
   "phone": "+17758829797",
   "web": "https://www.sanmarcosgrill.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Sawdust Corner Restaurant",
+  "cat": "Eat",
+  "kind": "restaurant",
+  "lat": 39.310767,
+  "lon": -119.649855,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Scoups",
@@ -3385,7 +4188,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Th 11:00-19:00; Fr-Sa 11:00-21:00; Su 11:00-18:00"
+  "hours": "Mo-Th 11:00-19:00; Fr-Sa 11:00-21:00; Su 11:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "See's Candies",
@@ -3396,7 +4200,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Seven Grille",
@@ -3407,7 +4212,8 @@
   "addr": "",
   "phone": "+17758830900",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Shears & Gears",
@@ -3418,7 +4224,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Sierra Sewing Quilting & Vacuums",
@@ -3429,7 +4236,44 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Silver Dollar Hotel",
+  "cat": "Stay",
+  "kind": "hotel",
+  "lat": 39.310834,
+  "lon": -119.649179,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Silver Queen Hotel",
+  "cat": "Stay",
+  "kind": "hotel",
+  "lat": 39.31113,
+  "lon": -119.649694,
+  "addr": "28 North C Street",
+  "phone": "+1 775 847-0440",
+  "web": "https://silverqueenhotel.net/",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Silverland Inn & Suites",
+  "cat": "Stay",
+  "kind": "hotel",
+  "lat": 39.312683,
+  "lon": -119.647148,
+  "addr": "100 E Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "SmartStyle",
@@ -3440,7 +4284,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Smith's",
@@ -3451,7 +4296,8 @@
   "addr": "599 East William Street",
   "phone": "+1 775-885-9922",
   "web": "https://www.smithsfoodanddrug.com/stores/grocery/nv/carson-city/599-e-william-st-carson-city-nv/706/00356",
-  "hours": "Mo-Su 06:00-24:00"
+  "hours": "Mo-Su 06:00-24:00",
+  "town": "Carson City"
  },
  {
   "name": "Spectrum Mobile",
@@ -3462,7 +4308,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Speedee Cash",
@@ -3473,7 +4320,8 @@
   "addr": "East William Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Sport Clips",
@@ -3484,7 +4332,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Sportsman's Warehouse",
@@ -3495,7 +4344,8 @@
   "addr": "1443 South Carson Street",
   "phone": "+17758842100",
   "web": "https://www.sportsmanwarehouse.com",
-  "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00"
+  "hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "Squeeze In",
@@ -3506,7 +4356,8 @@
   "addr": "308 North Curry Street",
   "phone": "+17754613250",
   "web": "https://www.squeezein.com/",
-  "hours": "Mo-Su 07:00-14:00"
+  "hours": "Mo-Su 07:00-14:00",
+  "town": "Carson City"
  },
  {
   "name": "St Charles Historic Hotel, Carson City NV",
@@ -3517,7 +4368,44 @@
   "addr": "310 South Carson Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "St Mary's Art Center",
+  "cat": "Sights & History",
+  "kind": "arts centre",
+  "lat": 39.309014,
+  "lon": -119.640398,
+  "addr": "55 R Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "St. Mary Catholic Church",
+  "cat": "Sights & History",
+  "kind": "place of worship",
+  "lat": 39.309083,
+  "lon": -119.648514,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "St. Paul's Episcopal Church",
+  "cat": "Sights & History",
+  "kind": "place of worship",
+  "lat": 39.309235,
+  "lon": -119.647838,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Starbucks",
@@ -3528,7 +4416,8 @@
   "addr": "2320 South Carson Street",
   "phone": "+1 775-885-2244",
   "web": "https://www.starbucks.com/store-locator/store/9571/hwy-395-rhodes-st-carson-c-2320-s-carson-street-1-carson-city-nv-897014536-us",
-  "hours": "Mo-Fr 06:00-18:30; Sa-Su 06:00-18:30"
+  "hours": "Mo-Fr 06:00-18:30; Sa-Su 06:00-18:30",
+  "town": "Carson City"
  },
  {
   "name": "Starbucks",
@@ -3539,7 +4428,8 @@
   "addr": "921 Topsy Lane",
   "phone": "+1 775-267-0592",
   "web": "https://www.starbucks.com/store-locator/store/15182/hwy-395-topsy-carson-city-921-topsy-lane-410-carson-city-nv-897058410-us",
-  "hours": "Mo-Su 05:00-19:00"
+  "hours": "Mo-Su 05:00-19:00",
+  "town": "Carson City"
  },
  {
   "name": "Starbucks",
@@ -3550,7 +4440,8 @@
   "addr": "910 Jacks Valley Road",
   "phone": "+1 775-267-5151",
   "web": "https://www.starbucks.com/store-locator/store/1026633/target-carson-city-1239-910-jacks-valley-rd-carson-city-nv-89705-us",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Starbucks",
@@ -3561,7 +4452,20 @@
   "addr": "1410 East William Street",
   "phone": "+1 775-882-7314",
   "web": "https://www.starbucks.com/store-locator/store/17008/williams-state-carson-city-1410-william-st-carson-city-nv-897013277-us",
-  "hours": "Mo-Th 05:00-21:30, Fr 05:00-22:00, Sa 05:30-22:00, Su 05:30-21:00"
+  "hours": "Mo-Th 05:00-21:30, Fr 05:00-22:00, Sa 05:30-22:00, Su 05:30-21:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "Stoneage Quarry",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "gift",
+  "lat": 39.309724,
+  "lon": -119.649658,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Storaway",
@@ -3572,7 +4476,8 @@
   "addr": "2151 Lone Mountain Drive",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Subway",
@@ -3583,7 +4488,8 @@
   "addr": "100 Winnie Lane West",
   "phone": "+1 775-461-0420",
   "web": "https://restaurants.subway.com/united-states/nv/carson-city/100-winnie-ln-w",
-  "hours": "Mo-We 08:00-21:00; Th-Fr 08:00-21:30; Sa-Su 08:00-21:00"
+  "hours": "Mo-We 08:00-21:00; Th-Fr 08:00-21:30; Sa-Su 08:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Subway",
@@ -3594,7 +4500,8 @@
   "addr": "3790 Highway 395 South",
   "phone": "+1 775-267-0888",
   "web": "https://restaurants.subway.com/united-states/nv/carson-city/3790-highway-395-south",
-  "hours": "09:00-21:00"
+  "hours": "09:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "Subway",
@@ -3605,7 +4512,32 @@
   "addr": "3959 South Carson Street",
   "phone": "+1 775-884-2424",
   "web": "https://restaurants.subway.com/united-states/nv/carson-city/3959-s-carson-st",
-  "hours": "07:30-20:30"
+  "hours": "07:30-20:30",
+  "town": "Carson City"
+ },
+ {
+  "name": "Sugarloaf Mountain Motel",
+  "cat": "Stay",
+  "kind": "motel",
+  "lat": 39.304838,
+  "lon": -119.652104,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Sun Mountain House Bed & Breakfast",
+  "cat": "Stay",
+  "kind": "guest house",
+  "lat": 39.314223,
+  "lon": -119.649037,
+  "addr": "226 North B St",
+  "phone": "",
+  "web": "https://www.sunmountainhouse.com/",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Sunrise Automotive",
@@ -3616,7 +4548,8 @@
   "addr": "",
   "phone": "+17758851611",
   "web": "",
-  "hours": "Mo-Fr 07:30-17:30"
+  "hours": "Mo-Fr 07:30-17:30",
+  "town": "Carson City"
  },
  {
   "name": "Super 8 by Wyndham Carson City",
@@ -3627,7 +4560,8 @@
   "addr": "2829 South Carson Street",
   "phone": "+1 775-430-5149",
   "web": "https://www.wyndhamhotels.com/super-8/carson-city-nevada/super-8-carson-city/overview",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Supercuts",
@@ -3638,7 +4572,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Superior Door & Window",
@@ -3649,7 +4584,21 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Superpawn",
+  "cat": "Jewelry & Pawn",
+  "kind": "pawnbroker",
+  "lat": 39.179585,
+  "lon": -119.725944,
+  "addr": "3816 US Highway 50 East",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Carson City",
+  "unverified": true
  },
  {
   "name": "Supreme Barbershop",
@@ -3660,7 +4609,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "T-Mobile",
@@ -3671,7 +4621,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Taco Bell",
@@ -3682,7 +4633,8 @@
   "addr": "3117 Highway 50 East",
   "phone": "+1 775-883-3991",
   "web": "https://locations.tacobell.com/nv/carson-city/3117-highway-50-east.html",
-  "hours": "Mo-Th 07:00-02:00; Fr-Sa 07:00-03:00; Su 07:00-02:00"
+  "hours": "Mo-Th 07:00-02:00; Fr-Sa 07:00-03:00; Su 07:00-02:00",
+  "town": "Carson City"
  },
  {
   "name": "Taco Bell",
@@ -3693,7 +4645,20 @@
   "addr": "4050 South Carson Street",
   "phone": "+1 775-841-2876",
   "web": "https://locations.tacobell.com/nv/carson-city/4050-s-carson-st-.html",
-  "hours": "08:00-24:00"
+  "hours": "08:00-24:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "Tahoe House Hotel & Bar",
+  "cat": "Stay",
+  "kind": "hotel",
+  "lat": 39.308638,
+  "lon": -119.650551,
+  "addr": "164 South C Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Tap Shack",
@@ -3704,7 +4669,8 @@
   "addr": "Rice Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Taqueria La Salsa",
@@ -3715,7 +4681,8 @@
   "addr": "",
   "phone": "+1 775-882-8226",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Target",
@@ -3726,7 +4693,8 @@
   "addr": "910 Jacks Valley Road",
   "phone": "+17752675151",
   "web": "https://www.target.com/sl/carson-city/1239",
-  "hours": "08:00-22:00"
+  "hours": "08:00-22:00",
+  "town": "Carson City"
  },
  {
   "name": "Tazmanian Boxing Club",
@@ -3737,7 +4705,8 @@
   "addr": "3737 North Carson Street",
   "phone": "+1-775-722-1752",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Team Clips",
@@ -3748,7 +4717,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Thai Thai",
@@ -3759,7 +4729,8 @@
   "addr": "1300 South Stewart Street",
   "phone": "+1 775-883-7905",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "The Basil",
@@ -3770,7 +4741,8 @@
   "addr": "311 North Carson Street",
   "phone": "+1-775-841-6100",
   "web": "https://www.thebasilrestaurant.com/",
-  "hours": "Mo-Th 11:00-21:00; Fr 11:00-09:30; Sa 17:00-21:00"
+  "hours": "Mo-Th 11:00-21:00; Fr 11:00-09:30; Sa 17:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "The Beer Studio",
@@ -3781,7 +4753,8 @@
   "addr": "1223 South Carson Street",
   "phone": "+1-775-515-4600",
   "web": "",
-  "hours": "Tu-Sa 11:30-18:30"
+  "hours": "Tu-Sa 11:30-18:30",
+  "town": "Carson City"
  },
  {
   "name": "The Bike Smith",
@@ -3792,7 +4765,20 @@
   "addr": "900 North Carson Street",
   "phone": "+17758833210",
   "web": "",
-  "hours": "Mo-Sa 09:30-18:00"
+  "hours": "Mo-Sa 09:30-18:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "The Chapin House",
+  "cat": "Sights & History",
+  "kind": "house",
+  "lat": 39.306558,
+  "lon": -119.650898,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "The Cracker Box Diner",
@@ -3803,7 +4789,20 @@
   "addr": "402 East William Street",
   "phone": "",
   "web": "https://thecrackerboxdiner.com/menu/",
-  "hours": "Mo-Su 06:00-14:00"
+  "hours": "Mo-Su 06:00-14:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "The Delta Saloon",
+  "cat": "Bars & Breweries",
+  "kind": "bar",
+  "lat": 39.310586,
+  "lon": -119.649918,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "The Federal Hotel",
@@ -3814,7 +4813,8 @@
   "addr": "900 South Carson Street",
   "phone": "+17758830900",
   "web": "https://www.choicehotels.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "The Fox Brewpub",
@@ -3825,7 +4825,20 @@
   "addr": "310 South Carson Street",
   "phone": "+17758831369",
   "web": "http://www.foxbrewpub.com",
-  "hours": "Mo-Su 11:00-20:00"
+  "hours": "Mo-Su 11:00-20:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "The Great Fire of 1875",
+  "cat": "Sights & History",
+  "kind": "memorial",
+  "lat": 39.310338,
+  "lon": -119.650829,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "The Grill",
@@ -3836,7 +4849,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "The Home Depot",
@@ -3847,18 +4861,45 @@
   "addr": "921 Jacks Valley Road",
   "phone": "+17752673434",
   "web": "https://www.homedepot.com/l/Carson-City/NV/Carson-City/89705/3312",
-  "hours": "Mo-Sa 06:00-22:00; Su 07:00-20:00"
+  "hours": "Mo-Sa 06:00-22:00; Su 07:00-20:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "The Jewelry Bench",
+  "cat": "Jewelry & Pawn",
+  "kind": "jewelry",
+  "lat": 39.149851,
+  "lon": -119.764968,
+  "addr": "361 Fairview Drive",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Carson City",
+  "unverified": true
  },
  {
   "name": "The Purple Avocado",
-  "cat": "Shop",
+  "cat": "Nevada Gifts & Souvenirs",
   "kind": "gift",
   "lat": 39.169342,
   "lon": -119.768051,
   "addr": "904 North Curry Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "The Roasting House",
+  "cat": "Coffee",
+  "kind": "coffee shop",
+  "lat": 39.311488,
+  "lon": -119.649038,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "Mo-Su 08:00-16:00",
+  "town": "Virginia City"
  },
  {
   "name": "The Thrifty Equine",
@@ -3869,7 +4910,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "The UPS Store",
@@ -3880,7 +4922,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "The UPS Store",
@@ -3891,7 +4934,20 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Fr 08:00-18:30; Sa 09:30-15:00"
+  "hours": "Mo-Fr 08:00-18:30; Sa 09:30-15:00",
+  "town": "Carson City"
+ },
+ {
+  "name": "The Way it Was Museum",
+  "cat": "Sights & History",
+  "kind": "museum",
+  "lat": 39.312331,
+  "lon": -119.648644,
+  "addr": "113 C Street",
+  "phone": "",
+  "web": "https://thewayitwasmuseum.com/",
+  "hours": "Mo-Su 10:30-16:30",
+  "town": "Virginia City"
  },
  {
   "name": "The Wheel House",
@@ -3902,7 +4958,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Tile Outlet",
@@ -3913,7 +4970,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Tires Plus",
@@ -3924,7 +4982,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Tito's Mexican Food",
@@ -3935,7 +4994,8 @@
   "addr": "East William Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Tomo Sushi",
@@ -3946,7 +5006,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Tractor Supply Company",
@@ -3957,7 +5018,8 @@
   "addr": "2035 East William Street",
   "phone": "+1 775-841-6421",
   "web": "",
-  "hours": "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+  "hours": "Mo-Sa 08:00-21:00; Su 09:00-19:00",
+  "town": "Carson City"
  },
  {
   "name": "Trader Joe's",
@@ -3968,7 +5030,8 @@
   "addr": "3790 US Highway 395 South",
   "phone": "+1 775-267-2486",
   "web": "https://locations.traderjoes.com/nv/carson-city/281/",
-  "hours": "Mo-Su 08:00-21:00"
+  "hours": "Mo-Su 08:00-21:00",
+  "town": "Carson City"
  },
  {
   "name": "U-Haul",
@@ -3979,7 +5042,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "U-Haul Moving & Storage",
@@ -3990,7 +5054,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "U.S Sub Base",
@@ -4001,7 +5066,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "U.S. Bank",
@@ -4012,7 +5078,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
+  "hours": "Mo-Fr 09:00-17:00; Sa 09:00-13:00",
+  "town": "Carson City"
  },
  {
   "name": "Ulta Beauty",
@@ -4023,7 +5090,8 @@
   "addr": "911 Topsy Lane",
   "phone": "+1 775-267-1176",
   "web": "https://www.ulta.com/stores/carson-city-nv-647",
-  "hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
+  "hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+  "town": "Carson City"
  },
  {
   "name": "United Federal Credit Union",
@@ -4034,7 +5102,8 @@
   "addr": "935 Jacks Valley Road",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "United Federal Credit Union",
@@ -4045,7 +5114,8 @@
   "addr": "1350 East William Street",
   "phone": "+17753296673",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "US Foods",
@@ -4056,18 +5126,32 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "V&T Railway \u2014 Virginia City Depot",
+  "cat": "Sights & History",
+  "kind": "railroad station",
+  "lat": 39.306866,
+  "lon": -119.649106,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Van Gogh & Vino",
-  "cat": "Arts & Culture",
+  "cat": "Sights & History",
   "kind": "arts centre",
   "lat": 39.157497,
   "lon": -119.766319,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Verizon",
@@ -4078,7 +5162,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Vim + Vigor",
@@ -4089,7 +5174,140 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Virginia City Antique Mall",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "antiques",
+  "lat": 39.311438,
+  "lon": -119.649561,
+  "addr": "54 North C Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City Baked Goods",
+  "cat": "Eat",
+  "kind": "bakery",
+  "lat": 39.311314,
+  "lon": -119.649468,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City Brewery & Taphouse",
+  "cat": "Bars & Breweries",
+  "kind": "bar",
+  "lat": 39.311656,
+  "lon": -119.649433,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City Hatmaker",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "clothes",
+  "lat": 39.308917,
+  "lon": -119.650447,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "Mo-Su 10:00-17:00",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City Inn",
+  "cat": "Stay",
+  "kind": "motel",
+  "lat": 39.30146,
+  "lon": -119.653256,
+  "addr": "675 South C Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City Jerky Co.",
+  "cat": "Eat",
+  "kind": "restaurant",
+  "lat": 39.308033,
+  "lon": -119.65074,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City Mercantile",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "gift",
+  "lat": 39.309602,
+  "lon": -119.649639,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City Outlaws",
+  "cat": "Sights & History",
+  "kind": "theatre",
+  "lat": 39.309176,
+  "lon": -119.649953,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City RV Park",
+  "cat": "Stay",
+  "kind": "caravan site",
+  "lat": 39.315691,
+  "lon": -119.645449,
+  "addr": "355 F Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City Visitor Center",
+  "cat": "Sights & History",
+  "kind": "information",
+  "lat": 39.309684,
+  "lon": -119.650162,
+  "addr": "86 South C Street",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Virginia City's Oldest Church",
+  "cat": "Sights & History",
+  "kind": "memorial",
+  "lat": 39.308054,
+  "lon": -119.650617,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "VP Racing Food Mart",
@@ -4100,7 +5318,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Walmart Garden Center",
@@ -4111,7 +5330,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Walmart Supercenter",
@@ -4122,7 +5342,8 @@
   "addr": "3770 US Highway 395 South",
   "phone": "+1 775-267-2158",
   "web": "https://www.walmart.com/store/1648-carson-city-nv",
-  "hours": "24/7"
+  "hours": "24/7",
+  "town": "Carson City"
  },
  {
   "name": "Washoe Tribal Smoke Shop",
@@ -4133,7 +5354,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Wells Fargo",
@@ -4144,7 +5366,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Wells Fargo",
@@ -4155,7 +5378,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Wells Fargo",
@@ -4166,7 +5390,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Wendy's",
@@ -4177,7 +5402,8 @@
   "addr": "4140 South Carson Street",
   "phone": "+1 775-883-4755",
   "web": "https://locations.wendys.com/united-states/nv/carson-city/4140-s-carson-st",
-  "hours": "09:00-22:00"
+  "hours": "09:00-22:00",
+  "town": "Carson City"
  },
  {
   "name": "Wendy's",
@@ -4188,7 +5414,8 @@
   "addr": "2555 North Carson Street",
   "phone": "+1 775-883-4762",
   "web": "https://locations.wendys.com/united-states/nv/carson-city/2555-north-carson-street",
-  "hours": "08:00-22:00"
+  "hours": "08:00-22:00",
+  "town": "Carson City"
  },
  {
   "name": "Western Nevada Supply",
@@ -4199,7 +5426,8 @@
   "addr": "5445 South Carson Street",
   "phone": "+17758820900",
   "web": "https://www.goblueteam.com/?section=about&page=branches&cf=z4",
-  "hours": "Mo-Fr 06:00-17:00; Sa-Su closed"
+  "hours": "Mo-Fr 06:00-17:00; Sa-Su closed",
+  "town": "Carson City"
  },
  {
   "name": "Westside Pour House",
@@ -4210,7 +5438,8 @@
   "addr": "110 West Telegraph Street",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Wickstrom Ace Hardware",
@@ -4221,7 +5450,8 @@
   "addr": "",
   "phone": "+1 775-434-1030",
   "web": "",
-  "hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00"
+  "hours": "Mo-Sa 08:00-19:00; Su 09:00-17:00",
+  "town": "Carson City"
  },
  {
   "name": "Wild Bill's Guns Too",
@@ -4232,18 +5462,56 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": "Tu-Sa 09:00-16:00"
+  "hours": "Tu-Sa 09:00-16:00",
+  "town": "Carson City"
  },
  {
   "name": "Wild Horse Gallery",
-  "cat": "Shop",
+  "cat": "Nevada Gifts & Souvenirs",
   "kind": "antiques",
   "lat": 39.156296,
   "lon": -119.765891,
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Wild Horse Gallery",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "art",
+  "lat": 39.30878,
+  "lon": -119.650121,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "Wild West Souvenirs",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "shop",
+  "lat": 39.311672,
+  "lon": -119.648921,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
+ },
+ {
+  "name": "William Sharon",
+  "cat": "Sights & History",
+  "kind": "memorial",
+  "lat": 39.309556,
+  "lon": -119.650119,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  },
  {
   "name": "Wing Stop",
@@ -4254,7 +5522,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "World Market",
@@ -4265,7 +5534,8 @@
   "addr": "",
   "phone": "",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Yang's Kitchen",
@@ -4276,7 +5546,8 @@
   "addr": "",
   "phone": "+17758886889",
   "web": "",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Yoga Sol",
@@ -4287,7 +5558,8 @@
   "addr": "305 North Carson Street",
   "phone": "+17758844765",
   "web": "https://www.yogasol-carsoncity.com/",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
  },
  {
   "name": "Yogurt Beach",
@@ -4298,6 +5570,19 @@
   "addr": "",
   "phone": "",
   "web": "https://www.yogurtbeach.com",
-  "hours": ""
+  "hours": "",
+  "town": "Carson City"
+ },
+ {
+  "name": "Zepha's Cove",
+  "cat": "Nevada Gifts & Souvenirs",
+  "kind": "shop",
+  "lat": 39.308727,
+  "lon": -119.650124,
+  "addr": "",
+  "phone": "",
+  "web": "",
+  "hours": "",
+  "town": "Virginia City"
  }
 ]
